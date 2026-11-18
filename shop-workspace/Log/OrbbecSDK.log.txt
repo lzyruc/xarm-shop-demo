@@ -1,0 +1,54 @@
+[09/15 13:34:13.591752][info][36548][HostTimestampProvider.cpp:36] Update clock type to: realtime(0)
+[09/15 13:34:13.743749][info][36548][DeviceManager.cpp:25] Current found device(s): (1)
+[09/15 13:34:13.743755][info][36548][DeviceManager.cpp:34] 	- Name: Gemini 336, PID: 0x0803, SN/ID: CP9E1630019L, Connection: USB3.2
+[09/15 13:34:13.743760][info][36548][DeviceManager.cpp:463] Enable net device enumeration: true
+[09/15 13:34:14.757207][info][36548][DeviceManager.cpp:25] Current device(s) list: (1)
+[09/15 13:34:14.757226][info][36548][DeviceManager.cpp:34] 	- Name: Gemini 336, PID: 0x0803, SN/ID: CP9E1630019L, Connection: USB3.2
+[09/15 13:34:14.768037][info][36548][G330Device.cpp:630] UVCAutoRebootOnFault=true for device: Gemini 336
+[09/15 13:34:19.926174][error][36548][WinHelpers.cpp:83] MFCreateDeviceSource(deviceAttrs_, &deviceSource_) returned: HResult 0x80070003: "系统找不到指定的路径。"
+[09/15 13:34:19.926229][warning][36548][ObException.cpp:32] A unrecoverable_exception has occurred!
+ - where: WinHelpers.cpp(84)
+ - msg: MFCreateDeviceSource(deviceAttrs_, &deviceSource_) returned: HResult 0x80070003: "系统找不到指定的路径。"
+ - type: PLATFORM
+ - status: 1
+[09/15 13:34:19.926314][warning][36548][ObException.cpp:32] A unrecoverable_exception has occurred!
+ - where: Protocol.cpp(66)
+ - msg: Request failed, statusCode: 2, msg: Send control transfer failed!, propertyId: 1000
+ - type: IO
+ - status: 1000
+[09/15 13:35:24.207936][info][33948][HostTimestampProvider.cpp:36] Update clock type to: realtime(0)
+[09/15 13:35:24.362500][info][33948][DeviceManager.cpp:25] Current found device(s): (1)
+[09/15 13:35:24.362506][info][33948][DeviceManager.cpp:34] 	- Name: Gemini 336, PID: 0x0803, SN/ID: CP9E1630019L, Connection: USB3.2
+[09/15 13:35:24.362510][info][33948][DeviceManager.cpp:463] Enable net device enumeration: true
+[09/15 13:35:25.410885][info][33948][DeviceManager.cpp:25] Current device(s) list: (1)
+[09/15 13:35:25.410902][info][33948][DeviceManager.cpp:34] 	- Name: Gemini 336, PID: 0x0803, SN/ID: CP9E1630019L, Connection: USB3.2
+[09/15 13:35:25.419564][info][33948][G330Device.cpp:630] UVCAutoRebootOnFault=true for device: Gemini 336
+[09/15 13:35:30.569187][error][33948][WinHelpers.cpp:83] MFCreateDeviceSource(deviceAttrs_, &deviceSource_) returned: HResult 0x80070003: "系统找不到指定的路径。"
+[09/15 13:35:30.569252][warning][33948][ObException.cpp:32] A unrecoverable_exception has occurred!
+ - where: WinHelpers.cpp(84)
+ - msg: MFCreateDeviceSource(deviceAttrs_, &deviceSource_) returned: HResult 0x80070003: "系统找不到指定的路径。"
+ - type: PLATFORM
+ - status: 1
+[09/15 13:35:30.569318][warning][33948][ObException.cpp:32] A unrecoverable_exception has occurred!
+ - where: Protocol.cpp(66)
+ - msg: Request failed, statusCode: 2, msg: Send control transfer failed!, propertyId: 1000
+ - type: IO
+ - status: 1000
+[09/15 13:42:24.152839][info][6100][HostTimestampProvider.cpp:36] Update clock type to: realtime(0)
+[09/15 13:42:24.236244][info][6100][DeviceManager.cpp:25] Current found device(s): (1)
+[09/15 13:42:24.236249][info][6100][DeviceManager.cpp:34] 	- Name: Gemini 336, PID: 0x0803, SN/ID: CP9E1630019L, Connection: USB3.2
+[09/15 13:42:24.236252][info][6100][DeviceManager.cpp:463] Enable net device enumeration: true
+[09/15 13:42:25.275455][info][6100][DeviceManager.cpp:25] Current device(s) list: (1)
+[09/15 13:42:25.275471][info][6100][DeviceManager.cpp:34] 	- Name: Gemini 336, PID: 0x0803, SN/ID: CP9E1630019L, Connection: USB3.2
+[09/15 13:42:25.290242][info][6100][G330Device.cpp:630] UVCAutoRebootOnFault=true for device: Gemini 336
+[09/15 13:42:30.448168][error][6100][WinHelpers.cpp:83] MFCreateDeviceSource(deviceAttrs_, &deviceSource_) returned: HResult 0x80070003: "系统找不到指定的路径。"
+[09/15 13:42:30.448224][warning][6100][ObException.cpp:32] A unrecoverable_exception has occurred!
+ - where: WinHelpers.cpp(84)
+ - msg: MFCreateDeviceSource(deviceAttrs_, &deviceSource_) returned: HResult 0x80070003: "系统找不到指定的路径。"
+ - type: PLATFORM
+ - status: 1
+[09/15 13:42:30.448345][warning][6100][ObException.cpp:32] A unrecoverable_exception has occurred!
+ - where: Protocol.cpp(66)
+ - msg: Request failed, statusCode: 2, msg: Send control transfer failed!, propertyId: 1000
+ - type: IO
+ - status: 1000
